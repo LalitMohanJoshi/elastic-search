@@ -19,7 +19,7 @@ And run below command as per your needs.
     npm i --save
 
 # 2. configure cloud credentials
-    Provided By [Elastic Cloud](https://www.elastic.co/)
-    
+    Provided By [Elastic-Cloud](https://www.elastic.co/)
+
 # 3. run application
     npm start
